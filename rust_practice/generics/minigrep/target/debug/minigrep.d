@@ -1,0 +1,1 @@
+/home/openseem/Documents/rcore_study/rust_practice/generics/minigrep/target/debug/minigrep: /home/openseem/Documents/rcore_study/rust_practice/generics/minigrep/src/lib.rs /home/openseem/Documents/rcore_study/rust_practice/generics/minigrep/src/main.rs

@@ -1,0 +1,15 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+authors = ["openseem <asd657977201@gmail.com>"]
+edition = "2018"
+
+[workspace]
+
+members = [
+    "adder",
+    "add-one",
+]
+
+[dependencies]
+libc = "0.2.80"

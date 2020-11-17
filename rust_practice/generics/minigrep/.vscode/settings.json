@@ -1,0 +1,7 @@
+{
+    "cSpell.words": [
+        "minigrep"
+    ],
+    "cmake.configureOnOpen": true,
+    "git.ignoreLimitWarning": true
+}
